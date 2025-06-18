@@ -1,0 +1,13 @@
+Run Active Directory under "other user"
+Use my Admin creds
+Go to Operations
+Copy from end user's manager AD account
+Enter name and email
+Retreive password from end user so it remains consistent with their Microsoft account or let them know we're changing it
+Make sure they're in the right AWS offshore group whether that's Offshore workers or Records
+Go to AWS Workspaces on the browser
+Look up the local part of the email in personal workspaces
+Start their machine
+Copy and paste their AWS IP address in the Windows RDP to verify full functioanlity
+Use Admin creds to login to connect
+After connecting inform end user manager that their AWS is ready to use
