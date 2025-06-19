@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Customer-focused and technically skilled IT Support Specialist with 4+ years’ experience in high-security, high-performance environments. Adept at supporting macOS and Windows systems, troubleshooting enterprise platforms, and delivering white-glove, VIP service for top-tier stakeholders. I thrive on process improvement, collaboration, and solving complex tech challenges under pressure.
+End user-focused and technically skilled IT Support Specialist with 4+ years’ experience in high-security, high-performance environments. Adept at supporting macOS and Windows systems, troubleshooting enterprise platforms, and delivering white-glove, VIP service for top-tier stakeholders. I thrive on process improvement, collaboration, and solving complex tech challenges under pressure.
 
 ---
 
