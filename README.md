@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Moe Yasin </h1>
 <p align="center">
-  <b>IT Support Specialist | White-glove IT Solutions | macOS & Windows Expert</b><br>
+  <b>IT Specialist </b><br>
   <a href="mailto:moeyasin508@email.com">moeyasin508@email.com</a> | 
   <a href="tel:2146046430">(214)-604-6430</a> | 
   <a href="https://www.linkedin.com/in/moe-yasin-b6280226a/">LinkedIn</a> <br>
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-End user-focused and technically skilled IT Support Specialist with 4+ years’ experience in high-security, high-performance environments. Adept at supporting macOS and Windows systems, troubleshooting enterprise platforms, and delivering white-glove, VIP service for top-tier stakeholders. I thrive on process improvement, collaboration, and solving complex tech challenges under pressure.
+End user-focused and technically skilled IT Support Specialist with 4+ years’ experience starting off conducting user research studies for new features and products then moved on to supporting IT environments in the health information industry. I thrive on process improvement, collaboration, and solving complex tech challenges under pressure.
 
 ---
 
