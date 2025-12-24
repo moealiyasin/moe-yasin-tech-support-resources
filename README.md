@@ -20,10 +20,10 @@ End user-focused and technically skilled IT Support Specialist with 4+ years’ 
 ### 🛠️ Skills & Tools
 
 - **OS & Systems:** macOS (advanced), Windows 10/11, Azure AD, Jamf, Intune, VPN & network troubleshooting
-- **ITSM Platforms:** ServiceNow, Zendesk, Lansweeper
-- **Collaboration:** Google Workspace, Office 365, Slack, Atlassian (Jira/Confluence), AWS
+- **ITSM Platforms:** Jira & Lansweeper
+- **Collaboration:** Office 365, Slack, Atlassian (Jira/Confluence), AWS
 - **Support:** VIP/white-glove service, AV event support, onboarding/offboarding, mobile device support
-- **Automation:** Bash/zsh (basic), MDM automation tools
+- **Automation:** Aquera
 
 ---
 
@@ -32,11 +32,8 @@ End user-focused and technically skilled IT Support Specialist with 4+ years’ 
 - **IT Support Specialist @ HealthMark Group** (2023–Present)<br>
   Providing frontline support for healthcare professionals across HIPAA-compliant systems.
 
-- **IT Support Contractor @ Tech Mahindra (On-site at Apple & Meta)** (2021–2023)<br>
-  Delivered secure, high-touch macOS and Windows support for internal teams and R&D at Apple and Meta.
-
-- **IT Support Technician (Legal IT) @ Legal Concierge Inc.** (2019)<br>
-  Supported legal professionals with device setups and AV support for live court proceedings.
+- **Research Moderator @ Tech Mahindra (On-site at Apple & Meta)** (2021–2023)<br>
+  Conducted User Research Studies for facial recogniton, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset.
 
 ---
 
@@ -52,18 +49,19 @@ _A comprehensive knowledge base for onboarding, troubleshooting, and workflow im
 ### 🏆 Certifications
 
 - 🛡️ **CompTIA Network+** (2025)
-- ☁️ **AWS Practitioner** (Planned)
+- ☁️ **AWS AI Practitioner** (2025)
+- AWS Solutions Architect** (2026 planned)
 
 ---
 
 ### 🎯 Fun Facts
 
 - ♟️ Chronic chess player (always up for a game!)
-- 🏓 Pickleball star on the weekends
-- Always seeking new ways to optimize workflows and elevate IT support
+- Basketball was always there, boxing class newbie, pickleball for the culture. 
+- Just bought my first ever game console, a PS5, so maybe I can add gamer soon.
 
 ---
 
 <p align="center">
-  <em>Let’s connect and solve tech challenges together!</em>
+  <em>Let’s connect and exchange tech know hows.</em>
 </p>
