@@ -49,7 +49,7 @@ _A comprehensive knowledge base for onboarding, troubleshooting, and workflow im
 
 - 🛡️ **CompTIA Network+** (2025)
 - ☁️ **AWS AI Practitioner** (2025)
-- AWS Solutions Architect** (2026 planned)
+- ☁️ AWS Solutions Architect** (2026 planned)
 
 ---
 
