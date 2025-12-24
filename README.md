@@ -1,6 +1,6 @@
 <!-- Moe Yasin's GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Moe Yasin! 👋</h1>
+<h1 align="center">Hi, I'm Moe Yasin </h1>
 <p align="center">
   <b>IT Support Specialist | White-glove IT Solutions | macOS & Windows Expert</b><br>
   <a href="mailto:moeyasin508@email.com">moeyasin508@email.com</a> | 
