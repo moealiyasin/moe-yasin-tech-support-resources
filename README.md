@@ -19,8 +19,7 @@ End user-focused and technically skilled IT Support Specialist with 4+ years’ 
 
 ### 🛠️ Skills & Tools
 
-- **OS & Systems:** macOS (advanced), Windows 10/11, Azure AD, Jamf, Intune, VPN & network troubleshooting
-- **ITSM Platforms:** Jira & Lansweeper
+- **OS & Systems:**  Windows 10/11, Entra, Intune, MacOS, Jamf, VPN, RDP, network troubleshooting, AWS Workspace support. 
 - **Collaboration:** Office 365, Slack, Atlassian (Jira/Confluence), AWS
 - **Support:** VIP/white-glove service, AV event support, onboarding/offboarding, mobile device support
 - **Automation:** Aquera
