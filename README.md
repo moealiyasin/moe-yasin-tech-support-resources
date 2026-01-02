@@ -58,6 +58,7 @@ _A comprehensive knowledge base for onboarding, troubleshooting, and workflow im
 - ♟️ Chronic chess player (always up for a game!)
 - Basketball was always there, boxing class newbie, pickleball for the culture. 
 - Just bought my first ever game console, a PS5, so maybe I can add gamer soon.
+Publsihed author, and currently writingn my 2nd book.
 
 ---
 
