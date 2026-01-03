@@ -6,7 +6,7 @@
   <a href="mailto:moeyasin508@email.com">moeyasin508@email.com</a> | 
   <a href="tel:2146046430">(214)-604-6430</a> | 
   <a href="https://www.linkedin.com/in/moe-yasin-b6280226a/">LinkedIn</a> <br>
-  Dallas, TX, USA
+  Lavon, TX
 </p>
 
 ---
@@ -58,7 +58,7 @@ _A comprehensive knowledge base for onboarding, troubleshooting, and workflow im
 - ♟️ Chronic chess player (always up for a game!)
 - Basketball was always there, boxing class newbie, pickleball for the culture. 
 - Just bought my first ever game console, a PS5, so maybe I can add gamer soon.
-Publsihed author, and currently writingn my 2nd book.
+-Publsihed author, and currently writingn my 2nd book.
 
 ---
 
