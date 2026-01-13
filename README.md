@@ -1,6 +1,6 @@
 <!-- Moe Yasin's GitHub Profile README -->
 
-<h1 align="center">Moe </h1>
+<h1 align="center">Moe Yasin </h1>
 <p align="center">
   <b>IT Specialist </b><br>
   <a href="mailto:moeyasin508@gmail.com">moeyasin508@email.com</a> | 
